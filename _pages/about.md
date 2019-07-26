@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Candidate in Computer Science at University of New Hampshire"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from:
