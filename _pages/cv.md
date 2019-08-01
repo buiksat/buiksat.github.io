@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please see my CV [here](http://buiksat.github.io/files/behzadian_cv.pdf).
+Please download my CV [here](http://buiksat.github.io/files/behzadian_cv.pdf).
