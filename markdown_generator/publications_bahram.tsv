@@ -1,2 +1,3 @@
 pub_date	title	venue	excerpt	authors	url_slug	paper_url
-2015-10-01	Monte Carlo localization in hand-drawn maps	International Conference on Intelligent Robots and Systems (IROS)		B Behzadian, P Agarwal, W Burgard, GD Tipaldi	Paper-title-number-1	http://buiksat.github.io/files/IROS_2015.pdf
+2015-07-01	Monte Carlo localization in hand-drawn maps	International Conference on Intelligent Robots and Systems (IROS)		Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, and Gian Diego Tipaldi.	Paper-title-number-1	http://buiksat.github.io/files/IROS_2015.pdf
+2015-10-01	Robot navigation in hand-drawn sketched maps	European conference on mobile robots (ECMR)		Federico Boniardi, Bahram Behzadian, Wolfram Burgard, and Gian Diego Tipaldi	Paper-title-number-2	http://buiksat.github.io/files/ECMR_2015.pdf
