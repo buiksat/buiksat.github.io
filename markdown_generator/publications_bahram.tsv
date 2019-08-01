@@ -1,3 +1,6 @@
 pub_date	title	venue	excerpt	authors	url_slug	paper_url
 2015-07-01	Monte Carlo localization in hand-drawn maps	International Conference on Intelligent Robots and Systems (IROS)		Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, and Gian Diego Tipaldi.	Paper-title-number-1	http://buiksat.github.io/files/IROS_2015.pdf
 2015-10-01	Robot navigation in hand-drawn sketched maps	European conference on mobile robots (ECMR)		Federico Boniardi, Bahram Behzadian, Wolfram Burgard, and Gian Diego Tipaldi	Paper-title-number-2	http://buiksat.github.io/files/ECMR_2015.pdf
+2018-01-05	Low-rank Feature Selection for Reinforcement Learning	International Symposium on Artificial Intelligence and Mathematics (ISAIM)		 Bahram Behzadian, Marek Petrik	Paper-title-number-3	http://buiksat.github.io/files/ISAIM_2018.pdf
+2018-07-05	Feature Selection by Singular Value Decomposition for Reinforcement Learning	Prediction and Generative Modeling Workshop at IJCAI/ICML		 Bahram Behzadian, Marek Petrik	Paper-title-number-4	http://buiksat.github.io/files/FAIM_2018.pdf
+2019-07-05	Fast Feature Selection for Linear Value Function Approximation	 International Conference on Automated Planning and Scheduling (ICAPS)		Bahram Behzadian, Soheil Gharatappeh, Marek Petrik	Paper-title-number-5	http://buiksat.github.io/files/ICAPS_2019.pdf
