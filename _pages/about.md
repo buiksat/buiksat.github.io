@@ -14,7 +14,7 @@ I spent two years as a research assistant in the [Autonomous Intelligent Systems
 
 
 ## Research Interest
-I am interested in sequential decision making under uncertainty in particular feature selection and state aggregation in reinforcement learning and robust Markov decision processes.
+I am interested in sequential decision making under uncertainty in particular feature selection and state aggregation in reinforcement learning, and robust Markov decision processes.
 
 ## Contact Information
 
