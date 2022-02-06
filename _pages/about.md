@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in the Department of Computer Science at the University of New Hampshire and a member of the [Reinforcement Learning and Robustness Lab](http://rmdp.xyz/) led by Dr. [Marek Petrik](https://marek.petrik.us/).
+I am a research assistant in the Department of Computer Science at the University of New Hampshire and a member of the [Reinforcement Learning and Robustness Lab](http://rmdp.xyz/) led by [Marek Petrik](https://marek.petrik.us/).
 
-I spent two years as a research assistant in the [Autonomous Intelligent Systems Lab](http://ais.informatik.uni-freiburg.de/) supervised by Dr. [Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/index.html) at the University of Freiburg, Germany.
+I spent two years as a research assistant in the [Autonomous Intelligent Systems Lab](http://ais.informatik.uni-freiburg.de/) supervised by [Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/index.html) at the University of Freiburg, Germany.
 
 
 ## Research Interest
