@@ -18,5 +18,5 @@ I am interested in sequential decision-making under uncertainty, notably feature
 
 ## Contact Information
 
-* Email: bahram@cs.unh.edu
+* Email: behzadian.bahram@gmail.com
 * Department of Computer Science, Kingsbury w236, Durham, NH 03824
