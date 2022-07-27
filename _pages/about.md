@@ -19,5 +19,5 @@ I am interested in Reinforcement Learning, Machine Learning, Sequential Decision
 
 ## Contact Information
 
-* Email: bahram@cs.unh.edu, behzadian.bahram@gmail.com
-* Department of Computer Science, Kingsbury w236, Durham, NH 03824
+* Email: buiksat@fb.com, behzadian.bahram@gmail.com
+* 14 Hacker Way, Menlo Park, CA
