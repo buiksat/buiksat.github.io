@@ -19,5 +19,5 @@ I am interested in Reinforcement Learning, Machine Learning, Sequential Decision
 
 ## Contact Information
 
-* Email: buiksat@fb.com, buiksat@gmail.com
+* Email: buiksat@meta.com, buiksat@gmail.com
 * Address: 14 Hacker Way, Menlo Park, CA
