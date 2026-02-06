@@ -1,0 +1,48 @@
+---
+title: "Bahram Behzadian"
+---
+
+![](images/profile.jpg){.author-photo}
+
+**Research Scientist, Meta**
+
+## About
+
+I work on reinforcement learning and sequential decision-making, with a focus on reasoning, planning, and long-horizon decision problems.
+
+My background spans robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL methods and large-scale online learning systems. I study how learning dynamics, representation, and planning interact to produce reliable behavior in complex environments.
+
+## Research Interests
+
+- RL for reasoning and planning in long-horizon decision problems
+- Robust RL and learning under uncertainty (robust MDPs, ambiguity sets)
+- Partial observability and stable learning dynamics
+- Value-/policy-iteration style methods and hybrid planning–learning approaches
+
+## Selected Work
+
+**Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
+[NeurIPS 2021]{.venue} · Bahram Behzadian, Marek Petrik, Chin Pang Ho
+[Scalable robust policy computation for structured ambiguity sets.]{.contribution}
+[[PDF]](files/NIPS_2021.pdf)
+
+**Optimizing Percentile Criterion using Robust MDPs**
+[AISTATS 2021]{.venue} · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+[Robust decision-making under risk/quantile objectives.]{.contribution}
+[[PDF]](files/AISTATS_2021.pdf)
+
+**Fast Feature Selection for Linear Value Function Approximation**
+[ICAPS 2019]{.venue} · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
+[Representation/feature selection for value-based RL.]{.contribution}
+[[PDF]](files/ICAPS_2019.pdf)
+
+**Monte Carlo Localization in Hand-Drawn Maps**
+[IROS 2015]{.venue} · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+[State estimation under nonstandard/noisy map representations.]{.contribution}
+[[PDF]](files/IROS_2015.pdf)
+
+## Contact {.contact-info}
+
+- **Email:** [buiksat@meta.com](mailto:buiksat@meta.com), [buiksat@gmail.com](mailto:buiksat@gmail.com)
+- **Location:** Menlo Park, CA
+- **Links:** [LinkedIn](https://www.linkedin.com/in/buiksat) · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)

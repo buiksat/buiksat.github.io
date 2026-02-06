@@ -1,0 +1,72 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+::: {.selected-pub}
+**Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
+[NeurIPS 2021]{.venue} · Bahram Behzadian, Marek Petrik, Chin Pang Ho
+[Scalable robust policy computation for structured ambiguity sets.]{.contribution}
+[[PDF]](files/NIPS_2021.pdf)
+:::
+
+::: {.selected-pub}
+**Optimizing Percentile Criterion using Robust MDPs**
+[AISTATS 2021]{.venue} · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+[Robust decision-making under risk/quantile objectives.]{.contribution}
+[[PDF]](files/AISTATS_2021.pdf)
+:::
+
+::: {.selected-pub}
+**Fast Feature Selection for Linear Value Function Approximation**
+[ICAPS 2019]{.venue} · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
+[Representation/feature selection for value-based RL.]{.contribution}
+[[PDF]](files/ICAPS_2019.pdf)
+:::
+
+::: {.selected-pub}
+**Monte Carlo Localization in Hand-Drawn Maps**
+[IROS 2015]{.venue} · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+[State estimation under nonstandard/noisy map representations.]{.contribution}
+[[PDF]](files/IROS_2015.pdf)
+:::
+
+---
+
+## All Publications
+
+**Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
+Bahram Behzadian, Marek Petrik, Chin Pang Ho
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2021
+[[PDF]](files/NIPS_2021.pdf)
+
+**Optimizing Percentile Criterion using Robust MDPs**
+Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+*International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021
+[[PDF]](files/AISTATS_2021.pdf)
+
+**Fast Feature Selection for Linear Value Function Approximation**
+Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
+*International Conference on Automated Planning and Scheduling (ICAPS)*, 2019
+[[PDF]](files/ICAPS_2019.pdf)
+
+**Feature Selection by Singular Value Decomposition for Reinforcement Learning**
+Bahram Behzadian, Marek Petrik
+*Prediction and Generative Modeling Workshop at IJCAI/ICML*, 2018
+[[PDF]](files/FAIM_2018.pdf)
+
+**Low-rank Feature Selection for Reinforcement Learning**
+Bahram Behzadian, Marek Petrik
+*International Symposium on Artificial Intelligence and Mathematics (ISAIM)*, 2018
+[[PDF]](files/ISAIM_2018.pdf)
+
+**Robot Navigation in Hand-Drawn Sketched Maps**
+Federico Boniardi, Bahram Behzadian, Wolfram Burgard, Gian Diego Tipaldi
+*European Conference on Mobile Robots (ECMR)*, 2015
+[[PDF]](files/ECMR_2015.pdf)
+
+**Monte Carlo Localization in Hand-Drawn Maps**
+Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+*International Conference on Intelligent Robots and Systems (IROS)*, 2015
+[[PDF]](files/IROS_2015.pdf)

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV: behzadian_cv.pdf"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bahram Behzadian",
+    "section": "",
+    "text": "Research Scientist, Meta"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Bahram Behzadian",
+    "section": "About",
+    "text": "About\nI work on reinforcement learning and sequential decision-making, with a focus on reasoning, planning, and long-horizon decision problems.\nMy background spans robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL methods and large-scale online learning systems. I study how learning dynamics, representation, and planning interact to produce reliable behavior in complex environments."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Bahram Behzadian",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nRL for reasoning and planning in long-horizon decision problems\nRobust RL and learning under uncertainty (robust MDPs, ambiguity sets)\nPartial observability and stable learning dynamics\nValue-/policy-iteration style methods and hybrid planning–learning approaches"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Bahram Behzadian",
+    "section": "Selected Work",
+    "text": "Selected Work\nFast Algorithms for L∞-Constrained S-Rectangular Robust MDPs NeurIPS 2021 · Bahram Behzadian, Marek Petrik, Chin Pang Ho Scalable robust policy computation for structured ambiguity sets. [PDF]\nOptimizing Percentile Criterion using Robust MDPs AISTATS 2021 · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho Robust decision-making under risk/quantile objectives. [PDF]\nFast Feature Selection for Linear Value Function Approximation ICAPS 2019 · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik Representation/feature selection for value-based RL. [PDF]\nMonte Carlo Localization in Hand-Drawn Maps IROS 2015 · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi State estimation under nonstandard/noisy map representations. [PDF]"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Bahram Behzadian",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: buiksat@meta.com, buiksat@gmail.com\nLocation: Menlo Park, CA\nLinks: LinkedIn · Google Scholar"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs NeurIPS 2021 · Bahram Behzadian, Marek Petrik, Chin Pang Ho Scalable robust policy computation for structured ambiguity sets. [PDF]\n\n\nOptimizing Percentile Criterion using Robust MDPs AISTATS 2021 · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho Robust decision-making under risk/quantile objectives. [PDF]\n\n\nFast Feature Selection for Linear Value Function Approximation ICAPS 2019 · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik Representation/feature selection for value-based RL. [PDF]\n\n\nMonte Carlo Localization in Hand-Drawn Maps IROS 2015 · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi State estimation under nonstandard/noisy map representations. [PDF]"
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs NeurIPS 2021 · Bahram Behzadian, Marek Petrik, Chin Pang Ho Scalable robust policy computation for structured ambiguity sets. [PDF]\n\n\nOptimizing Percentile Criterion using Robust MDPs AISTATS 2021 · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho Robust decision-making under risk/quantile objectives. [PDF]\n\n\nFast Feature Selection for Linear Value Function Approximation ICAPS 2019 · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik Representation/feature selection for value-based RL. [PDF]\n\n\nMonte Carlo Localization in Hand-Drawn Maps IROS 2015 · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi State estimation under nonstandard/noisy map representations. [PDF]"
+  },
+  {
+    "objectID": "publications.html#all-publications",
+    "href": "publications.html#all-publications",
+    "title": "Publications",
+    "section": "All Publications",
+    "text": "All Publications\nFast Algorithms for L∞-Constrained S-Rectangular Robust MDPs Bahram Behzadian, Marek Petrik, Chin Pang Ho Conference on Neural Information Processing Systems (NeurIPS), 2021 [PDF]\nOptimizing Percentile Criterion using Robust MDPs Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho International Conference on Artificial Intelligence and Statistics (AISTATS), 2021 [PDF]\nFast Feature Selection for Linear Value Function Approximation Bahram Behzadian, Soheil Gharatappeh, Marek Petrik International Conference on Automated Planning and Scheduling (ICAPS), 2019 [PDF]\nFeature Selection by Singular Value Decomposition for Reinforcement Learning Bahram Behzadian, Marek Petrik Prediction and Generative Modeling Workshop at IJCAI/ICML, 2018 [PDF]\nLow-rank Feature Selection for Reinforcement Learning Bahram Behzadian, Marek Petrik International Symposium on Artificial Intelligence and Mathematics (ISAIM), 2018 [PDF]\nRobot Navigation in Hand-Drawn Sketched Maps Federico Boniardi, Bahram Behzadian, Wolfram Burgard, Gian Diego Tipaldi European Conference on Mobile Robots (ECMR), 2015 [PDF]\nMonte Carlo Localization in Hand-Drawn Maps Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi International Conference on Intelligent Robots and Systems (IROS), 2015 [PDF]"
+  }
+]

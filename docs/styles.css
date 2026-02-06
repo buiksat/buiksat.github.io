@@ -1,0 +1,30 @@
+/* Minimal custom styles */
+
+.author-photo {
+  max-width: 180px;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.selected-pub {
+  margin-bottom: 1.5rem;
+}
+
+.selected-pub .venue {
+  color: #666;
+  font-style: italic;
+}
+
+.selected-pub .contribution {
+  color: #444;
+  font-size: 0.95em;
+  margin-top: 0.25rem;
+}
+
+.contact-info {
+  margin-top: 2rem;
+}
+
+.contact-info a {
+  margin-right: 1rem;
+}

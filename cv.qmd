@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+Download my CV: [behzadian_cv.pdf](files/behzadian_cv.pdf)
+
+<iframe src="files/behzadian_cv.pdf" width="100%" height="800px" style="border: none;"></iframe>
