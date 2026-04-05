@@ -4,7 +4,7 @@ title: "Bahram Behzadian"
 
 ![](images/profile.jpg){.author-photo}
 
-**Research Scientist, Meta**
+**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
 
 ## About
 
@@ -41,8 +41,6 @@ My background spans robust MDPs, learning under uncertainty, and partial observa
 [State estimation under nonstandard/noisy map representations.]{.contribution}
 [[PDF]](files/IROS_2015.pdf)
 
-## Contact {.contact-info}
+## Contact
 
-- **Email:** [buiksat@meta.com](mailto:buiksat@meta.com), [buiksat@gmail.com](mailto:buiksat@gmail.com)
-- **Location:** Menlo Park, CA
-- **Links:** [LinkedIn](https://www.linkedin.com/in/buiksat) · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
+**Email:** [buiksat@meta.com](mailto:buiksat@meta.com), [buiksat@gmail.com](mailto:buiksat@gmail.com)
