@@ -5,7 +5,7 @@ title: "Publications"
 ## Selected Publications
 
 ::: {.selected-pub}
-**UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
+**[UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards](https://openreview.net/pdf?id=rIzREKws05)**
 [ICLR 2026 RSI Workshop · NeurIPS 2026 (under review)]{.venue} · Bahram Behzadian et al.
 :::
 
@@ -41,7 +41,7 @@ title: "Publications"
 
 ## All Publications
 
-**UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
+**[UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards](https://openreview.net/pdf?id=rIzREKws05)**
 Bahram Behzadian et al.
 *ICLR 2026 RSI Workshop · NeurIPS 2026 (under review)*
 
