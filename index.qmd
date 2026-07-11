@@ -4,43 +4,44 @@ title: "Bahram Behzadian"
 
 ![](images/profile.jpg){.author-photo}
 
-**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
+**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en) · [GitHub](https://github.com/buiksat)
 
 ## About
 
-I work on reinforcement learning and sequential decision-making, with a focus on reasoning, planning, and long-horizon decision problems.
+I work on reinforcement learning and sequential decision-making. The through-line across my research is policy improvement when the model of the world or the evaluator is imperfect: robust MDPs when the dynamics are uncertain, and truncated or approximate evaluators when the reward signal is unreliable.
 
-My background spans robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL methods and large-scale online learning systems. I study how learning dynamics, representation, and planning interact to produce reliable behavior in complex environments.
+My recent work studies policy improvement under verifier-style rewards, which connects directly to post-training and RL for reasoning models. Earlier work covered robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL. I'm increasingly focused on model-based RL and reasoning systems that plan under imperfect models.
 
 ## Research Interests
 
-- RL for reasoning and planning in long-horizon decision problems
+- Policy improvement under truncated or approximate evaluators; verifier-style rewards and RLVR
+- Post-training and RL for reasoning and long-horizon decision problems
 - Robust RL and learning under uncertainty (robust MDPs, ambiguity sets)
-- Partial observability and stable learning dynamics
-- Value-/policy-iteration style methods and hybrid planning–learning approaches
+- Model-based RL, planning under learned or imperfect models
+- Evaluation methodology and stable learning dynamics
 
 ## Selected Work
 
+**UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
+ICLR 2026 RSI Workshop · NeurIPS 2026 (under review) · Bahram Behzadian et al.
+Decomposes finite-depth evaluator error into a fixed-point Bellman residual and a finite-unrolling truncation bias, then propagates it through a conservative policy improvement bound. Connects to RLVR and verifier design: when is an internal evaluator good enough to safely update a policy.
+
 **Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
-[NeurIPS 2021]{.venue} · Bahram Behzadian, Marek Petrik, Chin Pang Ho
-[Scalable robust policy computation for structured ambiguity sets.]{.contribution}
-[[PDF]](files/NIPS_2021.pdf)
+NeurIPS 2021 · Bahram Behzadian, Marek Petrik, Chin Pang Ho
+Scalable robust policy computation for structured ambiguity sets. [PDF](files/NIPS_2021.pdf)
 
 **Optimizing Percentile Criterion using Robust MDPs**
-[AISTATS 2021]{.venue} · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
-[Robust decision-making under risk/quantile objectives.]{.contribution}
-[[PDF]](files/AISTATS_2021.pdf)
+AISTATS 2021 · Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+Robust decision-making under risk/quantile objectives. [PDF](files/AISTATS_2021.pdf)
 
 **Fast Feature Selection for Linear Value Function Approximation**
-[ICAPS 2019]{.venue} · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
-[Representation/feature selection for value-based RL.]{.contribution}
-[[PDF]](files/ICAPS_2019.pdf)
+ICAPS 2019 · Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
+Representation and feature selection for value-based RL. [PDF](files/ICAPS_2019.pdf)
 
 **Monte Carlo Localization in Hand-Drawn Maps**
-[IROS 2015]{.venue} · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
-[State estimation under nonstandard/noisy map representations.]{.contribution}
-[[PDF]](files/IROS_2015.pdf)
+IROS 2015 · Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+State estimation under nonstandard, noisy map representations. [PDF](files/IROS_2015.pdf)
 
 ## Contact
 
-**Email:** [buiksat@meta.com](mailto:buiksat@meta.com), [buiksat@gmail.com](mailto:buiksat@gmail.com)
+**Email:** behzadian.bahram@gmail.com
