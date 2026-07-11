@@ -24,7 +24,7 @@ My recent work studies policy improvement under verifier-style rewards, which co
 
 **[UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards](https://openreview.net/pdf?id=rIzREKws05)**
 ICLR 2026 RSI Workshop · NeurIPS 2026 (under review) · Bahram Behzadian et al.
-Decomposes finite-depth evaluator error into a fixed-point Bellman residual and a finite-unrolling truncation bias, then propagates it through a conservative policy improvement bound. Connects to RLVR and verifier design: when is an internal evaluator good enough to safely update a policy.
+Policy improvement under truncated/approximate evaluators; connects to RLVR and verifier design.
 
 **Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
 NeurIPS 2021 · Bahram Behzadian, Marek Petrik, Chin Pang Ho
