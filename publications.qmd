@@ -4,9 +4,10 @@ title: "Publications"
 
 ## Publications
 
-**[UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards](https://openreview.net/pdf?id=rIzREKws05)**
+**UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
 Bahram Behzadian et al.
 *ICLR 2026 RSI Workshop · NeurIPS 2026 (under review)*
+[[PDF]](https://openreview.net/pdf?id=rIzREKws05)
 
 **Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
 Bahram Behzadian, Marek Petrik, Chin Pang Ho
