@@ -4,7 +4,7 @@ title: "Bahram Behzadian"
 
 ![](images/profile.jpg){.author-photo}
 
-**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en) · [GitHub](https://github.com/buiksat)
+**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
 
 ## About
 
