@@ -1,5 +1,6 @@
 ---
-title: "Bahram Behzadian"
+title: ""
+pagetitle: "Bahram Behzadian"
 description: "Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training."
 image: images/profile.jpg
 ---
@@ -8,18 +9,18 @@ image: images/profile.jpg
 <img src="images/profile.jpg" class="profile-photo" alt="Portrait of Bahram Behzadian">
 
 ::: {.profile-intro}
+<h1 class="profile-name">Bahram Behzadian</h1>
 <p class="profile-role">Research Scientist, Meta</p>
 <p class="research-statement">I study policy improvement when the model of the world or the evaluator is imperfect.</p>
-:::
-::::
 
 <div class="profile-links" aria-label="Professional links">
   <a href="files/behzadian_cv.pdf">CV</a>
   <a href="https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&amp;hl=en">Google Scholar</a>
-  <a href="https://github.com/buiksat">GitHub</a>
   <a href="https://www.linkedin.com/in/buiksat/">LinkedIn</a>
   <a href="mailto:behzadian.bahram@gmail.com">Email</a>
 </div>
+:::
+::::
 
 ## About
 
@@ -40,8 +41,6 @@ My recent work studies policy improvement under verifier-style rewards in recurs
 **UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
 
 **Bahram Behzadian**, Brett Daley, Gopeshh Subbaraj, and Houssam Nassif
-
-Bahram Behzadian and Brett Daley contributed equally.
 
 *ICLR 2026 Workshop on AI with Recursive Self-Improvement*
 

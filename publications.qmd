@@ -7,8 +7,6 @@ title: "Publications"
 
 **Bahram Behzadian**, Brett Daley, Gopeshh Subbaraj, and Houssam Nassif
 
-Bahram Behzadian and Brett Daley contributed equally.
-
 *ICLR 2026 Workshop on AI with Recursive Self-Improvement*
 
 [OpenReview](https://openreview.net/pdf?id=rIzREKws05)

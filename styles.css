@@ -18,6 +18,10 @@ main.content {
   margin-bottom: 1rem;
 }
 
+.profile-header > p {
+  margin: 0;
+}
+
 .profile-photo {
   display: block;
   width: 100%;
@@ -26,12 +30,14 @@ main.content {
   border-radius: 0.25rem;
 }
 
-.profile-intro p {
-  margin-bottom: 0.5rem;
+.profile-name {
+  margin: 0 0 0.3rem;
+  font-size: 2rem;
+  line-height: 1.15;
 }
 
-.profile-intro p:last-child {
-  margin-bottom: 0;
+.profile-intro p {
+  margin-bottom: 0.4rem;
 }
 
 .profile-role {
@@ -45,7 +51,8 @@ main.content {
 }
 
 .profile-links {
-  margin-bottom: 2rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
 }
 
 .profile-links p {
@@ -114,12 +121,12 @@ main.content {
     max-width: 8.5rem;
   }
 
-  .research-statement {
-    font-size: 1.05rem;
+  .profile-name {
+    font-size: 1.75rem;
   }
 
-  .profile-links {
-    margin-bottom: 1.5rem;
+  .research-statement {
+    font-size: 1.05rem;
   }
 
   .cv-frame {
