@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training.">
 
 <title>Bahram Behzadian</title>
 <style>
@@ -26,10 +27,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,18 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -69,6 +54,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Bahram Behzadian">
+<meta property="og:description" content="Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training.">
+<meta property="og:image" content="https://buiksat.github.io/images/profile.jpg">
+<meta property="og:site_name" content="Bahram Behzadian">
+<meta name="twitter:title" content="Bahram Behzadian">
+<meta name="twitter:description" content="Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training.">
+<meta name="twitter:image" content="https://buiksat.github.io/images/profile.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -82,7 +75,6 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Bahram Behzadian</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -120,6 +112,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Bahram Behzadian</h1>
 </div>
 
+<div>
+  <div class="description">
+    Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -134,31 +131,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="images/profile.jpg" class="author-photo img-fluid"></p>
-<p><strong>Research Scientist, Meta</strong> · <a href="https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&amp;hl=en">Google Scholar</a></p>
+<div class="profile-header">
+<p><img src="images/profile.jpg" class="profile-photo" alt="Portrait of Bahram Behzadian"></p>
+<div class="profile-intro">
+<p class="profile-role">
+Research Scientist, Meta
+</p>
+<p class="research-statement">
+I study policy improvement when the model of the world or the evaluator is imperfect.
+</p>
+</div>
+</div>
+<div class="profile-links" aria-label="Professional links">
+<p><a href="files/behzadian_cv.pdf">CV</a> <a href="https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&amp;hl=en">Google Scholar</a> <a href="https://github.com/buiksat">GitHub</a> <a href="https://www.linkedin.com/in/buiksat/">LinkedIn</a> <a href="mailto:behzadian.bahram@gmail.com">Email</a></p>
+</div>
 <section id="about" class="level2">
 <h2 class="anchored" data-anchor-id="about">About</h2>
-<p>I work on reinforcement learning and sequential decision-making. The through-line across my research is policy improvement when the model of the world or the evaluator is imperfect: robust MDPs when the dynamics are uncertain, and truncated or approximate evaluators when the reward signal is unreliable.</p>
-<p>My recent work studies policy improvement under verifier-style rewards, which connects directly to post-training and RL for reasoning models. Earlier work covered robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL. I’m increasingly focused on model-based RL and reasoning systems that plan under imperfect models.</p>
+<p>I work on reinforcement learning and sequential decision-making. The through-line across my research is policy improvement when the model of the world or the evaluator is imperfect: robust MDPs when dynamics are uncertain, and truncated or approximate evaluators when reward signals are unreliable.</p>
+<p>My recent work studies policy improvement under verifier-style rewards in recursive reasoning models, with applications to RL post-training, RLVR, and reward hacking under imperfect feedback. Earlier work developed scalable algorithms for robust and risk-sensitive MDPs.</p>
 </section>
 <section id="research-interests" class="level2">
 <h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
 <ul>
-<li>Policy improvement under truncated or approximate evaluators; verifier-style rewards and RLVR</li>
-<li>Post-training and RL for reasoning and long-horizon decision problems</li>
-<li>Robust RL and learning under uncertainty (robust MDPs, ambiguity sets)</li>
-<li>Model-based RL, planning under learned or imperfect models</li>
-<li>Evaluation methodology and stable learning dynamics</li>
+<li>Policy improvement under truncated or approximate evaluators</li>
+<li>Verifier-style rewards, RLVR, and reward hacking</li>
+<li>Robust MDPs and decision-making under uncertainty</li>
+<li>Model-based RL and planning under learned or imperfect models</li>
 </ul>
 </section>
 <section id="featured-work" class="level2">
 <h2 class="anchored" data-anchor-id="featured-work">Featured Work</h2>
-<p><strong>UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards</strong> ICLR 2026 RSI Workshop · NeurIPS 2026 (under review) · Bahram Behzadian et al. Policy improvement under truncated/approximate evaluators; connects to RLVR and verifier design.</p>
-<p><a href="./publications.html">See all publications →</a></p>
-</section>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p><strong>Email:</strong> behzadian.bahram@gmail.com</p>
+<div class="featured-work">
+<p><strong>UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards</strong></p>
+<p><strong>Bahram Behzadian</strong>, Brett Daley, Gopeshh Subbaraj, and Houssam Nassif</p>
+<p>Bahram Behzadian and Brett Daley contributed equally.</p>
+<p><em>ICLR 2026 Workshop on AI with Recursive Self-Improvement</em></p>
+<p>Studies when policy improvement remains reliable under truncated evaluators and when imperfect verifier feedback creates failure modes.</p>
+<p><a href="https://openreview.net/pdf?id=rIzREKws05">OpenReview</a></p>
+</div>
+<p><a href="./publications.html">View all publications</a></p>
 
 
 </section>
@@ -245,7 +256,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/buiksat\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

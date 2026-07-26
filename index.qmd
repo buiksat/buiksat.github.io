@@ -1,33 +1,53 @@
 ---
 title: "Bahram Behzadian"
+description: "Research scientist studying policy improvement under imperfect models and evaluators, robust MDPs, and RL post-training."
+image: images/profile.jpg
 ---
 
-![](images/profile.jpg){.author-photo}
+:::: {.profile-header}
+<img src="images/profile.jpg" class="profile-photo" alt="Portrait of Bahram Behzadian">
 
-**Research Scientist, Meta** · [Google Scholar](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
+::: {.profile-intro}
+<p class="profile-role">Research Scientist, Meta</p>
+<p class="research-statement">I study policy improvement when the model of the world or the evaluator is imperfect.</p>
+:::
+::::
+
+<div class="profile-links" aria-label="Professional links">
+  <a href="files/behzadian_cv.pdf">CV</a>
+  <a href="https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&amp;hl=en">Google Scholar</a>
+  <a href="https://github.com/buiksat">GitHub</a>
+  <a href="https://www.linkedin.com/in/buiksat/">LinkedIn</a>
+  <a href="mailto:behzadian.bahram@gmail.com">Email</a>
+</div>
 
 ## About
 
-I work on reinforcement learning and sequential decision-making. The through-line across my research is policy improvement when the model of the world or the evaluator is imperfect: robust MDPs when the dynamics are uncertain, and truncated or approximate evaluators when the reward signal is unreliable.
+I work on reinforcement learning and sequential decision-making. The through-line across my research is policy improvement when the model of the world or the evaluator is imperfect: robust MDPs when dynamics are uncertain, and truncated or approximate evaluators when reward signals are unreliable.
 
-My recent work studies policy improvement under verifier-style rewards, which connects directly to post-training and RL for reasoning models. Earlier work covered robust MDPs, learning under uncertainty, and partial observability, including scalable robust RL. I'm increasingly focused on model-based RL and reasoning systems that plan under imperfect models.
+My recent work studies policy improvement under verifier-style rewards in recursive reasoning models, with applications to RL post-training, RLVR, and reward hacking under imperfect feedback. Earlier work developed scalable algorithms for robust and risk-sensitive MDPs.
 
 ## Research Interests
 
-- Policy improvement under truncated or approximate evaluators; verifier-style rewards and RLVR
-- Post-training and RL for reasoning and long-horizon decision problems
-- Robust RL and learning under uncertainty (robust MDPs, ambiguity sets)
-- Model-based RL, planning under learned or imperfect models
-- Evaluation methodology and stable learning dynamics
+- Policy improvement under truncated or approximate evaluators
+- Verifier-style rewards, RLVR, and reward hacking
+- Robust MDPs and decision-making under uncertainty
+- Model-based RL and planning under learned or imperfect models
 
 ## Featured Work
 
+::: {.featured-work}
 **UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
-ICLR 2026 RSI Workshop · NeurIPS 2026 (under review) · Bahram Behzadian et al.
-Policy improvement under truncated/approximate evaluators; connects to RLVR and verifier design.
 
-[See all publications →](publications.qmd)
+**Bahram Behzadian**, Brett Daley, Gopeshh Subbaraj, and Houssam Nassif
 
-## Contact
+Bahram Behzadian and Brett Daley contributed equally.
 
-**Email:** behzadian.bahram@gmail.com
+*ICLR 2026 Workshop on AI with Recursive Self-Improvement*
+
+Studies when policy improvement remains reliable under truncated evaluators and when imperfect verifier feedback creates failure modes.
+
+[OpenReview](https://openreview.net/pdf?id=rIzREKws05)
+:::
+
+[View all publications](publications.qmd)

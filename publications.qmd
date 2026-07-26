@@ -2,44 +2,84 @@
 title: "Publications"
 ---
 
-## Publications
+::: {.publication}
+## UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards
 
-**UPI-TRM: Policy Improvement under Truncated Evaluators with Verifier-Style Rewards**
-Bahram Behzadian et al.
-*ICLR 2026 RSI Workshop · NeurIPS 2026 (under review)*
-[[PDF]](https://openreview.net/pdf?id=rIzREKws05)
+**Bahram Behzadian**, Brett Daley, Gopeshh Subbaraj, and Houssam Nassif
 
-**Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs**
-Bahram Behzadian, Marek Petrik, Chin Pang Ho
+Bahram Behzadian and Brett Daley contributed equally.
+
+*ICLR 2026 Workshop on AI with Recursive Self-Improvement*
+
+[OpenReview](https://openreview.net/pdf?id=rIzREKws05)
+:::
+
+::: {.publication}
+## Fast Algorithms for L∞-Constrained S-Rectangular Robust MDPs
+
+**Bahram Behzadian**, Marek Petrik, Chin Pang Ho
+
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2021
-[[PDF]](files/NIPS_2021.pdf)
 
-**Optimizing Percentile Criterion using Robust MDPs**
-Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+[PDF](files/NIPS_2021.pdf)
+:::
+
+::: {.publication}
+## Optimizing Percentile Criterion using Robust MDPs
+
+**Bahram Behzadian**, Reazul Hasan Russel, Marek Petrik, Chin Pang Ho
+
 *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2021
-[[PDF]](files/AISTATS_2021.pdf)
 
-**Fast Feature Selection for Linear Value Function Approximation**
-Bahram Behzadian, Soheil Gharatappeh, Marek Petrik
+[PDF](files/AISTATS_2021.pdf)
+:::
+
+::: {.publication}
+## Fast Feature Selection for Linear Value Function Approximation
+
+**Bahram Behzadian**, Soheil Gharatappeh, Marek Petrik
+
 *International Conference on Automated Planning and Scheduling (ICAPS)*, 2019
-[[PDF]](files/ICAPS_2019.pdf)
 
-**Feature Selection by Singular Value Decomposition for Reinforcement Learning**
-Bahram Behzadian, Marek Petrik
+[PDF](files/ICAPS_2019.pdf)
+:::
+
+::: {.publication}
+## Feature Selection by Singular Value Decomposition for Reinforcement Learning
+
+**Bahram Behzadian**, Marek Petrik
+
 *Prediction and Generative Modeling Workshop at IJCAI/ICML*, 2018
-[[PDF]](files/FAIM_2018.pdf)
 
-**Low-rank Feature Selection for Reinforcement Learning**
-Bahram Behzadian, Marek Petrik
+[PDF](files/FAIM_2018.pdf)
+:::
+
+::: {.publication}
+## Low-rank Feature Selection for Reinforcement Learning
+
+**Bahram Behzadian**, Marek Petrik
+
 *International Symposium on Artificial Intelligence and Mathematics (ISAIM)*, 2018
-[[PDF]](files/ISAIM_2018.pdf)
 
-**Robot Navigation in Hand-Drawn Sketched Maps**
-Federico Boniardi, Bahram Behzadian, Wolfram Burgard, Gian Diego Tipaldi
+[PDF](files/ISAIM_2018.pdf)
+:::
+
+::: {.publication}
+## Robot Navigation in Hand-Drawn Sketched Maps
+
+Federico Boniardi, **Bahram Behzadian**, Wolfram Burgard, Gian Diego Tipaldi
+
 *European Conference on Mobile Robots (ECMR)*, 2015
-[[PDF]](files/ECMR_2015.pdf)
 
-**Monte Carlo Localization in Hand-Drawn Maps**
-Bahram Behzadian, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+[PDF](files/ECMR_2015.pdf)
+:::
+
+::: {.publication}
+## Monte Carlo Localization in Hand-Drawn Maps
+
+**Bahram Behzadian**, Pratik Agarwal, Wolfram Burgard, Gian Diego Tipaldi
+
 *International Conference on Intelligent Robots and Systems (IROS)*, 2015
-[[PDF]](files/IROS_2015.pdf)
+
+[PDF](files/IROS_2015.pdf)
+:::

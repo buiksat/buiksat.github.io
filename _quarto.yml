@@ -1,9 +1,17 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - publications.qmd
+    - cv.qmd
 
 website:
   title: "Bahram Behzadian"
+  site-url: "https://buiksat.github.io"
+  search: false
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd

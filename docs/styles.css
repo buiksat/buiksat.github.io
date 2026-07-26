@@ -1,30 +1,129 @@
-/* Minimal custom styles */
+/* Restrained layout refinements for the academic site. */
 
-.author-photo {
-  max-width: 180px;
-  border-radius: 4px;
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+main.content {
+  max-width: 52rem;
+}
+
+.profile-header {
+  display: grid;
+  grid-template-columns: minmax(0, 9.5rem) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
   margin-bottom: 1rem;
 }
 
-.selected-pub {
-  margin-bottom: 1.5rem;
+.profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 9.5rem;
+  height: auto;
+  border-radius: 0.25rem;
 }
 
-.selected-pub .venue {
-  color: #666;
-  font-style: italic;
+.profile-intro p {
+  margin-bottom: 0.5rem;
 }
 
-.selected-pub .contribution {
-  color: #444;
-  font-size: 0.95em;
-  margin-top: 0.25rem;
+.profile-intro p:last-child {
+  margin-bottom: 0;
 }
 
-.contact-info {
-  margin-top: 2rem;
+.profile-role {
+  font-weight: 600;
 }
 
-.contact-info a {
-  margin-right: 1rem;
+.research-statement {
+  max-width: 40rem;
+  font-size: 1.15rem;
+  line-height: 1.45;
+}
+
+.profile-links {
+  margin-bottom: 2rem;
+}
+
+.profile-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin-bottom: 0;
+}
+
+.profile-links a,
+.cv-download {
+  font-weight: 500;
+}
+
+.featured-work,
+.publication {
+  margin-bottom: 1.75rem;
+}
+
+.featured-work {
+  padding-left: 1rem;
+  border-left: 0.2rem solid var(--bs-border-color);
+}
+
+.publication {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+
+.publication:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.publication h2 {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+  font-size: 1.2rem;
+}
+
+.publication p {
+  margin-bottom: 0.45rem;
+}
+
+.cv-download {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.cv-frame {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: clamp(42rem, 75vh, 58rem);
+  min-height: 42rem;
+  border: 1px solid var(--bs-border-color);
+}
+
+@media (max-width: 575.98px) {
+  .profile-header {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .profile-photo {
+    max-width: 8.5rem;
+  }
+
+  .research-statement {
+    font-size: 1.05rem;
+  }
+
+  .profile-links {
+    margin-bottom: 1.5rem;
+  }
+
+  .cv-frame {
+    height: 30rem;
+    min-height: 30rem;
+  }
 }

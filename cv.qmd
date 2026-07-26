@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
-Download my CV: [behzadian_cv.pdf](files/behzadian_cv.pdf)
+[Download CV (PDF)](files/behzadian_cv.pdf){.cv-download}
 
-<iframe src="files/behzadian_cv.pdf?v=f1695f5d" width="100%" height="800px" style="border: none;"></iframe>
+<iframe class="cv-frame" src="files/behzadian_cv.pdf?v=f1695f5d" title="Bahram Behzadian curriculum vitae PDF preview">
+  <p>This browser cannot display the PDF preview. <a href="files/behzadian_cv.pdf">Download CV (PDF)</a>.</p>
+</iframe>
